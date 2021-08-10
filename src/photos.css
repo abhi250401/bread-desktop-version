@@ -1,0 +1,44 @@
+.black{
+    z-index:2;
+    background-color: black;
+   
+    width:98.4%;
+    height:700px;
+   margin-left :10px;
+   margin-right:12px;
+    border-radius: 0px 0px 9px 9px;
+}
+.rect{
+position: absolute;
+bottom:-1150px;
+margin:auto;
+left:35%;
+}
+.rect2{
+    position: absolute;
+    bottom:-1150px;
+    margin:auto;
+    left:5%;
+}
+.rect3{
+    position: absolute;
+    bottom:-1150px;
+    margin:auto;
+    right:13%;
+}
+.bro{
+    position: absolute;
+bottom:-870px;
+margin:auto;
+left:32%;
+color: white;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 41px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.03em;
+
+}
